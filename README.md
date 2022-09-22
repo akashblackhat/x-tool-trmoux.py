@@ -7,6 +7,6 @@
       apt install php
       apt install nano
       apt install wget
-      git clone https://github.com/akashblackhat/x-tool-trmoux.git
+      git clone 
       ls
       cd 
