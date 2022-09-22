@@ -7,6 +7,10 @@
       apt install php
       apt install nano
       apt install wget
-      git clone 
+      git clone https://github.com/akashblackhat/x-tool-trmoux.py.git
       ls
-      cd 
+      cd x-tool-trmoux.py
+      ls
+      python2 x-tool-trmoux.py
+      
+      
