@@ -3,16 +3,16 @@
 # insall- only -termoux 
      👿apt update
      👿apt install python
-     👿 apt install python2
-     👿 apt install git
+     👿apt install python2
+     👿apt install git
      👿apt install php
      👿apt install nano
-     👿 apt install wget
-     👿 git clone https://github.com/akashblackhat/x-tool-trmoux.py.git
+     👿apt install wget
+     👿git clone https://github.com/akashblackhat/x-tool-trmoux.py.git
      👿ls
      👿cd x-tool-trmoux.py
-     👿 ls
-     👿 python2 x-tool-trmoux.py
+     👿ls
+     👿python2 x-tool-trmoux.py
       
 ### Hi there 👋
 
