@@ -1,5 +1,5 @@
 # x-tool-trmoux
-![Screenshot 2022-09-22 085406](https://user-images.githubusercontent.com/88341460/191799158-6efa7506-5765-4ec2-b4f7-ae1dacc8bc4c.jpg)
+
 # insall- only -termoux 
      👿apt update
      👿apt install python
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **hacking tools developer and android malware virous & has password cracker**
 
-- 📫 How to reach me **Akashram8090as@gmail.com**
+- 📫 How to reach me ** anonumous**
 
 - ⚡ Fun fact **I Am Ethical Hacker**
 -                                                                                                                                                                                                                                                                                                                                         
